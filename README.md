@@ -1,4 +1,4 @@
-Tradutor que utiliza Vue.js e Yandex Translate API
+Tradutor que utiliza Vue.js e Yandex Translate API, 
 Inspirado em um projeto do Brad Traversy.
 
 # vue-translate
