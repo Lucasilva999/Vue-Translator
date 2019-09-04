@@ -1,29 +1,29 @@
+Tradutor que utiliza Vue.js e Yandex Translate API
+Inspirado em um projeto do Brad Traversy.
+
 # vue-translate
 
-## Project setup
+## Setup do Projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compila e faz o hot-reload para desenvolvimento
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compila e minifica para produção
 ```
 npm run build
 ```
 
-### Run your tests
+### Executa os teste
 ```
 npm run test
 ```
 
-### Lints and fixes files
+### Corrige arquivos
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
